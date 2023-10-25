@@ -1,0 +1,18 @@
+html {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  height: inherit;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #404040;
+}
+
+canvas {
+  box-shadow: 0 0 0px 1px white;
+}
