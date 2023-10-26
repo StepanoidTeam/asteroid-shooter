@@ -1,3 +1,4 @@
 # asteroid-shooter
 
-todo: add link to live-demo
+### live-demo 
+https://stepanoidteam.github.io/asteroid-shooter/
